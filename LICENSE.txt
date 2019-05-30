@@ -1,7 +1,13 @@
 MIT License
 
-Copyright (c) 2018
-Interactive Computing Experiences Research Cluster (ICE)
+Copyright (c) 2019
+
+Eugene M. Taranta II <etaranta@gmail.com>
+Seng Lee Koh <ksenglee@knights.ucf.edu>
+Brian M. Williamson <brian.m.williamson@knights.ucf.edu>
+Kevin P. Pfeil <kevin.pfeil@knights.ucf.edu>
+Corey R. Pittman <cpittman@knights.ucf.edu>
+Joseph J. LaViola Jr. <jjl@cs.ucf.edu>
 University of Central Florida
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
